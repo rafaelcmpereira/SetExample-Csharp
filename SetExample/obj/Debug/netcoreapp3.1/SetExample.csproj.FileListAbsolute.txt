@@ -1,0 +1,13 @@
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\bin\Debug\netcoreapp3.1\SetExample.exe
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\bin\Debug\netcoreapp3.1\SetExample.deps.json
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\bin\Debug\netcoreapp3.1\SetExample.runtimeconfig.json
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\bin\Debug\netcoreapp3.1\SetExample.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\bin\Debug\netcoreapp3.1\SetExample.dll
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\bin\Debug\netcoreapp3.1\SetExample.pdb
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\obj\Debug\netcoreapp3.1\SetExample.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\obj\Debug\netcoreapp3.1\SetExample.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\obj\Debug\netcoreapp3.1\SetExample.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\obj\Debug\netcoreapp3.1\SetExample.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\obj\Debug\netcoreapp3.1\SetExample.dll
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\obj\Debug\netcoreapp3.1\SetExample.pdb
+C:\Users\rafae\OneDrive\VS-Repository\SetExample\SetExample\obj\Debug\netcoreapp3.1\SetExample.genruntimeconfig.cache
